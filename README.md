@@ -5,3 +5,4 @@ Curso de Programação Web | Udemy | Cod3r
 2. Estruturas de Controle - Completo
 3. Função - Completo
 4. Objeto - Completo
+9. HTML - Completo
